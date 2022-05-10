@@ -1,7 +1,7 @@
 Hi 👋 My name is Hitesh Kumar
 =============================
 
-Full Stack Web Developer
+Technical Advisor
 --------------------
 
 * 🌍  I'm based in Bangalore
