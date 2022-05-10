@@ -1,4 +1,4 @@
-Hi 👋 My name is Hitesh Kumar
+Hi! My name is Hitesh Kumar
 =============================
 
 Technical Advisor
